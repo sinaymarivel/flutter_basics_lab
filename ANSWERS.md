@@ -5,10 +5,10 @@
 **Student ID:** 2023-1394
 
 ## 1. GitHub repository link
-[https://github.com/sinaymarivel/flutter_basics_lab#flutter_basics_lab]
+[https://github.com/sinaymarivel/flutter_basics_lab]
 
 ## 2. Last three Activity 2 Debug Console lines
-The following are examples of the expected format only. Replace them with the actual last three lines copied from your VS Code Debug Console after tapping the tracker:
+
 ```text
 build() called: 4 glasses
 build() called: 5 glasses
